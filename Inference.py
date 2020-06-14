@@ -13,7 +13,7 @@ from keras.callbacks import ModelCheckpoint
 import os
 import pandas as pd
 from generator import AugmentedImageSequence
-from test_CheXNet import target_classes
+# from test_CheXNet import target_classes
 #from weights import get_class_weights
 
 
