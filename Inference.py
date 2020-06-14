@@ -145,8 +145,10 @@ def run_inference():
 
     # In[24]:
 
-
+    print('\n---------------------------')
+    print('The image at ' + img_path + ' has: \n')
     print(class_ids[idx] + ' with ' + str(pred[0][idx]) + ' probability')
+    print('\n---------------------------\n')
 
 if __name__ == '__main__':
     run_inference()
