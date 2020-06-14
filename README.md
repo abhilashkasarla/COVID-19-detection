@@ -1,2 +1,3 @@
-# COVID-19-detection
-COVID-19 and Pneumonia Detection Using Chest X-Ray
+# COVID-19 and Pneumonia Detection Chest X-Ray Images
+
+Detection of COVID-19 and Pneumonia from frontal chest X-Ray images
